@@ -18,3 +18,11 @@ Please refer to the repository
 
 ## Link to Deployed Application
 https://adeekollu.github.io/horiseon-code-refactor/
+
+## Links to Screenshot of Webpage
+https://user-images.githubusercontent.com/115489389/197059816-1dd15511-d494-402b-b016-e108370805de.png
+
+https://user-images.githubusercontent.com/115489389/197060240-ffae6bc5-bb46-4f4c-b278-fe5b7254c32f.png
+
+https://user-images.githubusercontent.com/115489389/197060558-2343d4c6-a208-47a3-887b-003a815427db.png
+
