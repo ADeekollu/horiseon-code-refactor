@@ -15,3 +15,6 @@ N/A
 ## License
 
 Please refer to the repository 
+
+## Link to Deployed Application
+https://adeekollu.github.io/horiseon-code-refactor/
